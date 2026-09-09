@@ -1,0 +1,36 @@
+body {
+    background-color: #f2f2f2;
+}
+.card{
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+fieldset{
+    margin-top: 25px;
+}
+legend{
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+.form-control
+.form-select
+.form-range{
+    margin-bottom: 15px;
+}
+h1{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 15px;
+    color: #666;
+}
+button{
+    margin-right: 8px;
+    margin-top: 15px;
+}
+input[type="image"] {
+    width: 50px;
+    height: 50px;
+}
